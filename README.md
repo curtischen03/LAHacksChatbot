@@ -1,5 +1,3 @@
----
-
 # Chatbot Interface
 
 This is a simple chatbot interface built with React. It includes features such as dark/light mode, user input handling, and responses, along with basic styling and message history.
@@ -52,5 +50,3 @@ The application will run on `http://localhost:3000/` by default.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
